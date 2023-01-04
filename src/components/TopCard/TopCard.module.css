@@ -1,0 +1,25 @@
+.testo1 {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  text-align: left;
+  background-color: white;
+  height: auto;
+  padding: 1.5rem;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+h3 {
+  margin-bottom: 20px;
+  color: #3b8c8c;
+}
+p {
+  margin-bottom: 20px;
+  color: grey;
+}
+
+.subTitle {
+  color: hsl(71, 73%, 54%);
+  font-weight: bold;
+}
