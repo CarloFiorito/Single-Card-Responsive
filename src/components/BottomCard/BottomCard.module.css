@@ -38,6 +38,7 @@ button {
   border-radius: 8px;
   box-shadow: 2px 2px 15px 3px #999999;
   cursor: pointer;
+  max-width: 200px;
 }
 
 @media (min-width: 768px) {
